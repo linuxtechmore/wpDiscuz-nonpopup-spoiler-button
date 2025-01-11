@@ -2,6 +2,8 @@
 
 This repository contains code for a custom **non-popup spoiler button** for the wpDiscuz comment editor. It allows users to insert spoiler tags directly into the comment box without using a popup.
 
+![ltm-wpdiscuz-spoiler](https://github.com/user-attachments/assets/794e616b-6fa4-4a1c-aa59-885196c0cd85)
+
 <a href="https://www.buymeacoffee.com/linuxtechmore"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=linuxtechmore&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff" /></a>
 
 ## Features
