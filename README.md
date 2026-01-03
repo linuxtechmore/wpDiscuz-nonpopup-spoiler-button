@@ -4,7 +4,7 @@ This repository contains code for a custom **non-popup spoiler button** for the 
 
 ![ltm-wpdiscuz-spoiler](https://github.com/user-attachments/assets/794e616b-6fa4-4a1c-aa59-885196c0cd85)
 
-<a href="https://www.buymeacoffee.com/linuxtechmore"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=linuxtechmore&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff" /></a>
+[![Buy Me A Coffee](https://img.buymeacoffee.com/button-api/?text=Buy%20me%20a%20coffee&emoji=☕&slug=linuxtechmore&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff)](https://www.buymeacoffee.com/linuxtechmore)
 
 ## Features
 - Adds a spoiler button to the wpDiscuz editor toolbar.
